@@ -37,4 +37,5 @@ a {
 #innerText {
  color: purple;
  text-align: center;
+ display: block;
 }

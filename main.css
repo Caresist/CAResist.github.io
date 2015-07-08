@@ -28,4 +28,6 @@ text-align: center;
 a {
  text-decoration: none;
  text-align: center;
+ margin-right: auto;
+ margin-left: auto;
 }

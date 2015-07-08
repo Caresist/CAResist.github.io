@@ -25,3 +25,6 @@ text-align: center;
  margin-left: auto;
  text-decoration: none;
 }
+a {
+ text-decoration: none;
+}

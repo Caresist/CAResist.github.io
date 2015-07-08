@@ -11,6 +11,8 @@ text-align: center;
   color: aqua;
 } 
 #button {
+ margin-right: auto;
+ margin-left: auto;
  border-radius: 20px;
  height: 100px;
  width: 200px;

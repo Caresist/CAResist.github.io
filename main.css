@@ -1,13 +1,12 @@
 .center {
 text-align: center;
-color: red;
 }
  body {
   background-color: black;
 } 
-/* h1 {
-  color: 00FFFF;
-} */
+ h1 {
+  color: aqua;
+} 
 /* body {
   color: FFFFFF;
 } */

@@ -1,5 +1,6 @@
 .center {
 text-align: center;
+color: red;
 }
  body {
   background-color: black;
@@ -7,6 +8,6 @@ text-align: center;
 /* h1 {
   color: 00FFFF;
 } */
-body {
+/* body {
   color: FFFFFF;
-}
+} */

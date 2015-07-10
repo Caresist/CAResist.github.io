@@ -31,15 +31,15 @@ h1 {
     margin-right: auto;
     margin-left: auto;
     border-radius: 20px;
-    height: 200px;
-    width: 450px;
+    height: 160px;
+    width: 370px;
     border: 5px purple solid;
     text-align: center;
 }
 
 #innerText {
     background: black;
-    font-size: 5em;
+    font-size: 60px;
 }
 
 a {

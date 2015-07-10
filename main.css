@@ -1,41 +1,41 @@
 * {
- font-family: Orbitron;
+    font-family: Orbitron;
 }
+
 .center {
-text-align: center;
+    text-align: center;
 }
- body {
-  background-color: black;
-} 
- h1 {
-  color: aqua;
-} 
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: aqua;
+}
+
 #button {
- margin-right: auto;
- margin-left: auto;
- border-radius: 20px;
- height: 70px;
- width: 250px;
- border: 5px purple solid;
+    color: aqua;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+    height: 70px;
+    width: 250px;
+    border: 5px purple solid;
+    text-align: center;
 }
-#enter {
- text-align: center;
- color: purple solid;
- margin-right: auto;
- margin-left: auto;
- text-decoration: none;
-}
-a {
- padding:30px 30px 30px 30px;
- font-size: 27px;
- text-decoration: none;
- text-align: center;
- float: center;
- margin-right: auto;
- margin-left: auto;
-}
+
 #innerText {
- color: purple;
- text-align: center;
- display: block;
+    padding-top: 40px;
+    vertical-align: middle;
+}
+
+a {
+    padding: 30px 30px 30px 30px;
+    font-size: 27px;
+    text-decoration: none;
+    text-align: center;
+    float: center;
+    margin-right: auto;
+    margin-left: auto;
 }

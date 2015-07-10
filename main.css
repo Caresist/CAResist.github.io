@@ -7,6 +7,11 @@
     font-family: Orbitron;
 }
 
+.title {
+    font-size: 10em;
+    text-align: center
+}
+
 .center {
     text-align: center;
 }
@@ -24,15 +29,14 @@ h1 {
     margin-right: auto;
     margin-left: auto;
     border-radius: 20px;
-    height: 70px;
-    width: 250px;
+    height: 200px;
+    width: 450px;
     border: 5px purple solid;
     text-align: center;
 }
 
 #innerText {
-    padding-top: 40px;
-    vertical-align: middle;
+    font-size: 5em;
 }
 
 a {

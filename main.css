@@ -25,6 +25,7 @@ h1 {
 }
 
 #button {
+    background-color: black;
     color: aqua;
     margin-right: auto;
     margin-left: auto;

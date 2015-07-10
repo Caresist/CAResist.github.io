@@ -1,4 +1,9 @@
 * {
+    background-image: url(PosterSiteWithText.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
     font-family: Orbitron;
 }
 

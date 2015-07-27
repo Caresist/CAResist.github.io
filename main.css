@@ -1,5 +1,5 @@
 * {
-    background-image: url(PosterSiteWithText.png);
+    background-image: url(PosterSiteWithTextLOW.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -36,14 +36,17 @@ h1 {
     width: 370px;
     border: 5px purple solid;
     text-align: center;
+    opacity: 0.7;
 }
 
 #innerText {
     background: black;
     font-size: 60px;
 }
-
-a {
+.noDecor {
+    text-decoration: none;
+}
+/*a {
     padding: 30px 30px 30px 30px;
     font-size: 27px;
     text-decoration: none;
@@ -51,4 +54,4 @@ a {
     float: center;
     margin-right: auto;
     margin-left: auto;
-}
+}*/

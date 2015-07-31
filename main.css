@@ -19,7 +19,7 @@
 } h1 {
     color: aqua;
 } #button {
-    margin-top: 300px;
+    margin-top: 18%;
     background: black;
     color: aqua;
     margin-right: auto;
@@ -44,4 +44,6 @@
     padding-top: 50px;
     height: 15%;
     width: 15%;
+} .AnonFont {
+    font-family: 'Source Code Pro';
 }

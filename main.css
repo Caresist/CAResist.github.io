@@ -12,21 +12,13 @@
     padding-top: -200px;
     font-size: 7em;
     text-align: center
-}
-
-.center {
+} .center {
     text-align: center;
-}
-
-body {
+} body {
     background-color: black;
-}
-
-h1 {
+} h1 {
     color: aqua;
-}
-
-#button {
+} #button {
     margin-top: 300px;
     background: black;
     color: aqua;
@@ -38,22 +30,19 @@ h1 {
     border: 5px purple solid;
     text-align: center;
     opacity: 0.7;
-}
-
-#innerText {
+} #innerText { 
     background: black;
     font-size: 60px;
-}
-
-.noDecor {
+} .noDecor {
     text-decoration: none;
-}
-/*a {
-    padding: 30px 30px 30px 30px;
-    font-size: 27px;
-    text-decoration: none;
-    text-align: center;
-    float: center;
-    margin-right: auto;
+} #logos {
+    padding-left: 39%;
     margin-left: auto;
-}*/
+    margin-right: auto;
+    display: inline-block;
+} .logo {
+    padding: 0;
+    padding-top: 50px;
+    height: 120px;
+    width: 120px;
+}

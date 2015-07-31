@@ -1,5 +1,6 @@
 * {
-    background-image: url(PosterSiteWithTextLOW.png);
+    background-color: #1c1c1c;
+    background-image: url(PosterCARSiteNoLogo.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -43,6 +44,7 @@ h1 {
     background: black;
     font-size: 60px;
 }
+
 .noDecor {
     text-decoration: none;
 }

@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function() {
     $('#button').mouseenter(function () {
         $('#button').fadeTo('fast', 1.0);
     });

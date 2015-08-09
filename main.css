@@ -18,7 +18,7 @@
     background-color: black;
 } h1 {
     color: aqua;
-} #buttonZ {
+} #button {
     margin-top: 18%;
     background: black;
     color: aqua;
@@ -33,7 +33,7 @@
 } #innerText { 
     background: black;
     font-size: 60px;
-} .noDecorZ {
+} .noDecor {
     text-decoration: none;
 } #logos {
     padding-left: 36%;

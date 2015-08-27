@@ -1,5 +1,5 @@
 .nav-current {
-    color: grey;
+    color: #6200ff;
     font-weight: bold;
 }
 .nav {
@@ -9,8 +9,8 @@
 }
 a {
     text-decoration: none;
-    color: aqua;
+    color: #0091eb;
 }
 h3 {
-    color: aqua;
+    color: #6200ff;
 }

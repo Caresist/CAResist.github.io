@@ -16,8 +16,8 @@
     text-align: center;
 } body {
     background-color: black;
-} h1 {
-    color: aqua;
+} .mainTitle {
+    color: #00c4ff;
 } #button {
     margin-top: 18%;
     background: black;

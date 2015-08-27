@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('.dropdown-toggle').click(function() {
-    $('.dropdown-menu').toggle();
+  $('.nav-resistance').click(function() {
+    $('.dropdown').toggle();
   });
 });

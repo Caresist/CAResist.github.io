@@ -1,4 +1,5 @@
-var main = function(){
-    $(".nav-home").addClass("nav-home");
-};
-$(document).ready(main());
+$(document).ready(function() {
+  $('.dropdown-toggle').click(function() {
+    $('.dropdown-menu').toggle();
+  });
+});

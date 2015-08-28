@@ -1,9 +1,9 @@
 .SpiralFont {
-  font-family: 'Fjalla One';
+  /*Please remove: font-family: 'Fjalla One';*/
   color: #55009f;
 }
       
 .SpiralFont2 {
-  font-family: 'Fjalla One';
+  /* Kills download font-family: 'Fjalla One';*/
   color: #a8d000;
 }

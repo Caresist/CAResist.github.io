@@ -3,8 +3,14 @@
 
 .Font {
   color: #b40000;
+  font-weight: bold
 }
       
 .Font2 {
   color: #393939;
+  font-weight: bolder
+}
+
+.Font3 {
+  font-weight: lighter
 }

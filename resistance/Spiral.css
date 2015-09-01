@@ -1,9 +1,16 @@
+*{font-family: 'Fjalla One';
+}
+
 .SpiralFont {
-  font-family: 'Fjalla One';
+  font-weight: bold;
   color: #55009F;
 }
       
 .SpiralFont2 {
-  font-family: 'Fjalla One';
+  font-weight: bolder;
   color: #A8D000;
+}
+
+.SpiralFont3 {
+  font-weight: lighter;
 }

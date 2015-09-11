@@ -4,13 +4,16 @@
 .SpiralFont {
   font-weight: bold;
   color: #55009F;
+  text-align: center;
 }
       
 .SpiralFont2 {
   font-weight: bolder;
   color: #A8D000;
+  text-align: center;
 }
 
 .SpiralFont3 {
   font-weight: lighter;
+  text-align: center;
 }

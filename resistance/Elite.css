@@ -3,14 +3,17 @@
 
 .Font {
   color: #b40000;
-  font-weight: bold
+  font-weight: bold;
+  text-align: center;
 }
       
 .Font2 {
   color: #393939;
-  font-weight: bolder
+  font-weight: bolder;
+  text-align: center;
 }
 
 .Font3 {
-  font-weight: lighter
+  font-weight: lighter;
+  text-align: center;
 }

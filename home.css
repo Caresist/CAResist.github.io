@@ -1,4 +1,10 @@
 * {
+    background-color: #1c1c1c;
+    background-image: url(img/PosterCARSiteNoLogo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
     font-family: 'Fjalla One';
 }
 

@@ -1,3 +1,13 @@
+* {
+    background-color: #1c1c1c;
+    background-image: url(img/PosterCARSiteNoLogo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+    font-family: 'Fjalla One';
+}
+
 .nav-current {
     color: #6200ff;
     font-weight: bold;
@@ -13,4 +23,10 @@ a {
 }
 h3 {
     color: #6200ff;
+}
+h4 {
+    color: #f07800
+}
+p {
+    color: #004dfa
 }

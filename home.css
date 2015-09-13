@@ -17,7 +17,7 @@
     height: 1%;
     width: 100%;
 }
-a {
+.link-colour {
     text-decoration: none;
     color: #0091eb;
 }

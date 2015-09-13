@@ -21,15 +21,15 @@
     text-decoration: none;
     color: #0091eb;
 }
-h3 {
+.h3-colour {
     color: #6200ff;
 }
-h4 {
+.h4-colour {
     color: #f07800
 }
 p {
     color: #004dfa
 }
-li {
+.li-colour {
     color: #7b7b7b
 }

@@ -22,17 +22,17 @@
     color: #0091eb;
 }
 .h3-colour {
-    color: #6200ff;
+    color: rgb(98, 100, 255);
 }
 .h4-colour {
     color: #f07800
 }
 p {
-    color: #004dfa
+    color: rgb(0, 100, 250)
 }
 .li-colour {
     color: #7b7b7b
 }
 #link-holder {
-    padding-left: 1.5%;
+    padding-left: 4%;
 }

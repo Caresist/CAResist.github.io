@@ -26,7 +26,7 @@
     margin-left: auto;
     border-radius: 20px;
     height: 160px;
-    width: 370px;
+    width: 360px;
     border: 5px purple solid;
     text-align: center;
     opacity: 0.6;
@@ -36,7 +36,7 @@
 } .noDecor {
     text-decoration: none;
 } #logos {
-    padding-left: 36%;
+    padding-left: 0%;
     margin-left: auto;
     margin-right: auto;
     display: inline-block;

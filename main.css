@@ -19,7 +19,7 @@
 } .mainTitle {
     color: #00c4ff;
 } #button {
-    margin-top: 18%;
+    margin-top: 16%;
     background: black;
     color: #00c4ff;
     margin-right: auto;
@@ -37,7 +37,6 @@
     text-decoration: none;
 } #logos {
     text-align: center;
-    padding-left: 36%;
     margin-left: auto;
     margin-right: auto;
     display: inline-block;

@@ -36,7 +36,8 @@
 } .noDecor {
     text-decoration: none;
 } #logos {
-    padding-left: 38%;
+    text-align: center;
+    padding-left: 36%;
     margin-left: auto;
     margin-right: auto;
     display: inline-block;

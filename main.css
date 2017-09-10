@@ -37,6 +37,7 @@
     text-decoration: none;
 } #logos {
     text-align: center;
+    padding-left: 36%;
     margin-left: auto;
     margin-right: auto;
     display: inline-block;
